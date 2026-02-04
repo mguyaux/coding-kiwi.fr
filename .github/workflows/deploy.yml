@@ -34,7 +34,7 @@ jobs:
         run: npm run build
 
       - name: Create CNAME file
-        run: echo "www.coding-kiwi.fr" > dist/maxime-guyaux-fr/browser/CNAME
+        run: echo "www.coding-kiwi.fr" > dist/coding-kiwi-fr/browser/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
