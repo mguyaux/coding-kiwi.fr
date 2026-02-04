@@ -6,34 +6,48 @@ import { Component } from '@angular/core';
   template: `
     <section class="section" aria-labelledby="legal-title">
       <h1 id="legal-title">Mentions légales</h1>
-      <p class="muted">Informations légales obligatoires. Merci de fournir les éléments manquants pour finaliser.</p>
 
       <dl>
         <dt>Dénomination sociale</dt>
-        <dd><strong>Coding Kiwi</strong></dd>
+        <dd><strong>CODING KIWI</strong></dd>
 
         <dt>Forme juridique</dt>
-        <dd>EURL</dd>
+        <dd>Société à responsabilité limitée (sans autre indication)</dd>
 
         <dt>Siège social</dt>
-        <dd><em>À compléter</em></dd>
+        <dd>47 RUE ANTONIN PERRIN, 69100 VILLEURBANNE, France</dd>
 
         <dt>SIREN</dt>
-        <dd><em>À compléter</em></dd>
+        <dd>982 699 639</dd>
 
-        <dt>Directeur de la publication</dt>
-        <dd><em>À compléter</em> (représentant légal)</dd>
+        <dt>SIRET (siège social)</dt>
+        <dd>982 699 639 00018</dd>
+
+        <dt>N° TVA intracommunautaire</dt>
+        <dd>FR45 982 699 639</dd>
+
+        <dt>Capital social</dt>
+        <dd>500,00 € (fixe)</dd>
 
         <dt>Contact</dt>
-        <dd><a href="mailto:contact@coding-kiwi.fr">contact&#64;coding-kiwi.fr</a></dd>
+        <dd><a [href]="'mailto:' + email" [textContent]="email"></a></dd>
 
-        <dt>Hébergeur</dt>
+        <dt>Directeur de la publication</dt>
+        <dd>Maxime Guyaux</dd>
+
+        <dt>Hébergeur du site</dt>
         <dd>
-          <p><em>À compléter</em></p>
-          <p class="muted">(Nom de l’hébergeur, adresse, téléphone)</p>
+          Github Pages <a href="https://pages.github.com/" target="_blank" rel="noopener">https://pages.github.com/</a>
         </dd>
+
+        <dt>Mise à jour</dt>
+        <dd>04/02/2026</dd>
       </dl>
     </section>
   `,
 })
-export class LegalComponent {}
+export class LegalComponent {
+  // Construit l’email dynamiquement pour limiter la récupération par des bots
+  private readonly emailCodes = [99,111,110,116,97,99,116,64,99,111,100,105,110,103,45,107,105,119,105,46,102,114];
+  public readonly email = String.fromCharCode(...this.emailCodes);
+}
