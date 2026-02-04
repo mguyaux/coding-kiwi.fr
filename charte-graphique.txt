@@ -1,0 +1,251 @@
+🎨 Charte graphique — Coding Kiwi
+1. ADN visuel
+Valeurs à transmettre visuellement
+
+🧠 Clarté → lisibilité, hiérarchie nette
+
+🛡️ Confiance → couleurs sobres, contrastes maîtrisés
+
+🧑‍💻 Expertise → design propre, pas tape-à-l’œil
+
+🌱 Modernité calme → léger twist, jamais agressif
+
+👉 On est à l’opposé des agences flashy ou des startups criardes.
+
+2. Palette de couleurs
+🎯 Couleur principale — Kiwi Deep Green
+
+Sérieuse, stable, rappelle subtilement le nom sans tomber dans le vert flashy.
+
+Hex : #1F3D2B
+
+Usage :
+
+titres
+
+éléments structurants
+
+header / footer
+
+boutons primaires
+
+🌿 Couleur secondaire — Soft Kiwi
+
+Apporte de la respiration et de la modernité.
+
+Hex : #6FB98F
+
+Usage :
+
+accents visuels
+
+liens
+
+icônes
+
+hover states
+
+🧾 Couleurs neutres
+Fond principal
+
+Off-white : #F7F9F8
+
+arrière-plan global
+
+Texte principal
+
+Charcoal : #1E1E1E
+
+lisibilité maximale
+
+Texte secondaire
+
+Gray : #6B7280
+
+descriptions, légendes
+
+⚠️ Couleur d’alerte (rare)
+
+Amber doux : #D97706
+
+Usage :
+
+mise en garde
+
+information importante
+
+jamais décoratif
+
+3. Typographie
+🅰️ Police principale (titres)
+
+Inter ou Manrope
+
+moderne
+
+excellente lisibilité
+
+très bon rendu écran
+
+parfaite pour tech + juridique
+
+Utilisation :
+
+H1 à H3
+
+CTA
+
+navigation
+
+🅱️ Police secondaire (texte courant)
+
+Inter (regular / medium)
+
+texte long
+
+paragraphes
+
+FAQ
+
+mentions légales
+
+👉 Une seule famille suffit → sobriété et cohérence
+
+Hiérarchie typographique (exemple)
+
+H1 : 42–48px / bold
+
+H2 : 32px / semibold
+
+H3 : 24px / semibold
+
+Texte : 16–18px / regular
+
+Légende : 14px / regular
+
+4. Logo (concept, sans dessin)
+Forme recommandée
+
+Logo typographique
+
+Pas d’icône complexe
+
+Éventuellement :
+
+un point
+
+une barre
+
+une séparation discrète
+
+Exemples de structure :
+
+Coding Kiwi
+
+
+ou
+
+Coding · Kiwi
+
+
+Couleurs :
+
+Texte principal : Kiwi Deep Green
+
+Variante blanche sur fond sombre
+
+5. Iconographie
+Style
+
+Icônes outline
+
+épaisseur fine
+
+angles légèrement arrondis
+
+Librairies adaptées :
+
+Lucide
+
+Heroicons
+
+Phosphor
+
+Couleur :
+
+Charcoal ou Soft Kiwi
+
+jamais multicolore
+
+6. Boutons & composants UI
+Bouton principal
+
+Fond : #1F3D2B
+
+Texte : blanc
+
+Radius : 8px
+
+Hover :
+
+fond légèrement plus clair
+
+transition douce (150–200ms)
+
+Bouton secondaire
+
+Fond transparent
+
+Bordure : #1F3D2B
+
+Texte : #1F3D2B
+
+7. Layout & mise en page
+Principes
+
+Grille simple
+
+Beaucoup d’espace blanc
+
+Sections bien délimitées
+
+Lecture verticale fluide
+
+Largeur max
+
+1100–1200px
+
+centrée
+
+padding généreux
+
+8. Illustrations & visuels
+À éviter
+
+❌ photos stock clichées
+❌ illustrations cartoon
+❌ visuels IA trop “wow”
+
+À privilégier
+
+✔️ schémas simples
+✔️ blocs explicatifs
+✔️ captures produits (plus tard)
+
+9. Ton visuel & rédactionnel combiné
+
+Le visuel ne doit jamais crier.
+Le message clé doit être :
+
+« On sait ce qu’on fait, et on le fait proprement. »
+
+10. Déclinaison future (mon-acte-immo)
+
+Bonne nouvelle :
+👉 cette charte est 100 % compatible avec mon-acte-immo
+
+Il suffira :
+
+d’un accent couleur dédié (ex : bleu/gris)
+
+tout le reste peut être partagé

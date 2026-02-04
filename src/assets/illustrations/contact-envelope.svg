@@ -1,0 +1,9 @@
+<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration d'une enveloppe stylisée">
+  <rect x="1" y="1" width="518" height="218" rx="12" stroke="#D8E6DC" stroke-width="2"/>
+  <g stroke="#6FB98F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="110" y="60" width="300" height="100" rx="8" fill="none"/>
+    <path d="M110 60 L260 120 L410 60"/>
+    <path d="M110 160 L230 100"/>
+    <path d="M410 160 L290 100"/>
+  </g>
+</svg>

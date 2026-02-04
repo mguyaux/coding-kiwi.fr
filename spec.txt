@@ -1,0 +1,298 @@
+# Site web de Coding Kiwi
+
+## 1. Objectif général du site
+
+Le site web de **Coding Kiwi** a pour objectif principal de servir de **vitrine professionnelle claire, crédible et rassurante** pour l’entreprise. Il doit permettre :
+
+* de présenter Coding Kiwi comme une **structure sérieuse de conseil et de développement logiciel**,
+* d’expliquer simplement les **services proposés**,
+* d’établir la **confiance** avec des prospects (PME, startups, indépendants, porteurs de projets),
+* de créer un lien naturel avec les projets portés par l’entreprise (dont *mon-acte-immo*),
+* de faciliter la **prise de contact qualifiée**.
+
+Le site ne cherche pas à être un site e-commerce ni une plateforme applicative, mais une **présence institutionnelle sobre et efficace**, orientée compréhension et crédibilité.
+
+---
+
+## 2. Cibles
+
+### 2.1 Cibles principales
+
+* Dirigeants de PME / TPE
+* Fondateurs de startups
+* Responsables techniques ou produit
+* Porteurs de projets numériques
+
+### 2.2 Niveau de connaissance attendu
+
+* Compréhension générale du numérique
+* Peu ou pas de maîtrise technique approfondie
+* Attentes fortes en termes de fiabilité, clarté et accompagnement
+
+---
+
+## 3. Ton et positionnement éditorial
+
+Le ton du site Coding Kiwi doit être :
+
+* **Professionnel mais accessible**
+* **Pédagogique sans être simpliste**
+* **Rassurant sans être commercial**
+* **Sobre, clair, structuré**
+
+À éviter absolument :
+
+* jargon excessif
+* promesses vagues ou marketing
+* survalorisation de l’IA ou de la technologie
+
+La technologie est présentée comme un **outil au service de solutions concrètes**, jamais comme une fin en soi.
+
+---
+
+## 4. Arborescence générale du site
+
+Le site Coding Kiwi est structuré autour des pages suivantes :
+
+1. Page d’accueil
+2. Services
+3. Méthode & approche
+4. Projets & produits
+5. À propos
+6. Contact
+7. Mentions légales
+
+---
+
+## 5. Spécifications fonctionnelles détaillées
+
+### 5.1 Page d’accueil
+
+#### Objectif
+
+Donner en quelques secondes une compréhension claire :
+
+* de ce que fait Coding Kiwi,
+* pour qui,
+* et comment.
+
+#### Contenu attendu
+
+**Hero section**
+
+* Titre principal :
+
+  > "Coding Kiwi — Conseil et développement de solutions logicielles utiles"
+
+* Sous-titre :
+
+  > "Nous concevons des applications fiables, compréhensibles et adaptées à vos enjeux métier."
+
+* Court paragraphe d’introduction expliquant :
+
+  * l’activité de conseil et développement,
+  * l’accompagnement de bout en bout,
+  * l’importance de la clarté et de la robustesse.
+
+**Section “Ce que nous faisons”**
+
+Présentation synthétique des grands axes :
+
+* Conseil et accompagnement technique
+* Développement d’applications sur mesure
+* Analyse et sécurisation de projets numériques
+
+Chaque axe est décrit en 2–3 phrases maximum.
+
+**Section “Pourquoi Coding Kiwi”**
+
+Mise en avant des valeurs différenciantes :
+
+* compréhension du besoin métier avant la technique
+* solutions maintenables et durables
+* accompagnement humain et transparent
+
+**Section “Projets & initiatives”**
+
+Présentation courte de projets portés par Coding Kiwi, dont :
+
+* *mon-acte-immo* (outil d’analyse et de compréhension d’actes immobiliers)
+
+Cette section renvoie vers la page dédiée aux projets.
+
+**Call to action**
+
+* Bouton : "Discuter de votre projet"
+* Redirection vers la page Contact
+
+---
+
+### 5.2 Page “Services”
+
+#### Objectif
+
+Expliquer précisément ce que propose Coding Kiwi, sans jargon inutile.
+
+#### Contenu
+
+**Service 1 : Conseil et accompagnement informatique**
+
+Description :
+
+Coding Kiwi accompagne ses clients dans la réflexion, la structuration et la sécurisation de leurs projets numériques. Cela inclut notamment :
+
+* aide à la définition du besoin,
+* audit de solutions existantes,
+* choix d’architectures adaptées,
+* accompagnement à la prise de décision technique.
+
+**Service 2 : Développement logiciel sur mesure**
+
+Description :
+
+Conception et développement d’applications :
+
+* web
+* backend
+* outils internes
+* prototypes et MVP
+
+Les solutions sont pensées pour être :
+
+* compréhensibles,
+* évolutives,
+* maintenables dans le temps.
+
+**Service 3 : Projets innovants et outils métiers**
+
+Coding Kiwi développe également ses propres outils, conçus à partir de problématiques réelles, avec une attention particulière portée à :
+
+* la clarté fonctionnelle,
+* la sécurité,
+* l’expérience utilisateur.
+
+---
+
+### 5.3 Page “Méthode & approche”
+
+#### Objectif
+
+Rassurer sur la manière de travailler.
+
+#### Contenu
+
+Présentation de la démarche :
+
+1. Compréhension du besoin
+2. Analyse et cadrage
+3. Conception technique adaptée
+4. Développement progressif
+5. Tests, validation et accompagnement
+
+Chaque étape est expliquée de façon simple, avec un accent sur la collaboration et la transparence.
+
+---
+
+### 5.4 Page “Projets & produits”
+
+#### Objectif
+
+Montrer le savoir-faire à travers des réalisations concrètes.
+
+#### Contenu
+
+**mon-acte-immo**
+
+Description :
+
+*mon-acte-immo* est un service en ligne permettant d’analyser et d’aider à la compréhension de documents immobiliers grâce à des outils d’analyse automatisée.
+
+L’objectif est d’apporter :
+
+* clarté,
+* compréhension,
+* sérénité
+
+aux particuliers avant la signature d’un acte.
+
+Mention claire :
+
+> mon-acte-immo est un outil d’aide à la compréhension et à l’analyse, et ne remplace pas l’intervention d’un professionnel du droit.
+
+---
+
+### 5.5 Page “À propos”
+
+#### Objectif
+
+Humaniser Coding Kiwi.
+
+#### Contenu
+
+Présentation de l’entreprise :
+
+Coding Kiwi est une entreprise de conseil et de développement logiciel fondée par Maxime Guyaux.
+
+La démarche repose sur :
+
+* une approche pragmatique du numérique,
+* la recherche de solutions utiles et compréhensibles,
+* une exigence forte sur la qualité et la fiabilité.
+
+L’accent est mis sur :
+
+* l’indépendance,
+* la responsabilité,
+* la relation de confiance.
+
+---
+
+### 5.6 Page “Contact”
+
+#### Objectif
+
+Permettre un contact simple et direct.
+
+#### Contenu
+
+* Texte invitant à décrire brièvement le projet
+* Adresse email professionnelle
+* Eventuellement un formulaire simple (nom, email, message)
+
+---
+
+### 5.7 Mentions légales
+
+Contenu obligatoire :
+
+* Dénomination sociale : Coding Kiwi
+* Forme juridique : EURL
+* Siège social
+* SIREN
+* Directeur de la publication
+* Hébergeur
+
+---
+
+## 6. Contraintes non fonctionnelles
+
+* Site rapide et léger
+* Accessible sur mobile
+* Structure claire
+* SEO basique mais propre (contenu lisible sans JavaScript obligatoire)
+* Maintenance simple
+
+---
+
+## 7. Évolutions possibles
+
+* Ajout d’articles de fond
+* Mise en avant d’études de cas
+* Connexion plus forte avec mon-acte-immo
+* Page dédiée à l’éthique et à l’usage responsable de l’IA
+
+---
+
+## 8. Conclusion
+
+Le site Coding Kiwi doit refléter une entreprise sérieuse, humaine et compétente, capable de concevoir des solutions numériques utiles et fiables, sans surpromesse ni complexité inutile.
